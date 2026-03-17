@@ -1,5 +1,5 @@
 # IPL-Data-Analysis
-<img src="/IPL.png" alt="Unemployment Analysis" width="700" height="800" />
+<img src="/IPL.png" alt="Unemployment Analysis" width="700" height="500" />
 
 ### Project Overview
 This project provides a structured and clean analysis of Indian Premier League (IPL) match data. It serves as a comprehensive diagnostic tool for understanding match dynamics, player performances, and team statistics through exploratory data analysis (EDA) and visualization.
