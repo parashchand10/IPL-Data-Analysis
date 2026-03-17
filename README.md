@@ -21,3 +21,14 @@ Libraries:
 1. Pandas: Data manipulation and analysis.
 
 2. Matplotlib & Seaborn: Advanced data visualization and heatmaps.
+
+### Install library
+
+To install the libraries listed in your requirements.txt file, follow these steps:
+
+Navigate to your project directory in the terminal (where your requirements.txt file is located).
+
+Run the following command to install the required packages:
+```
+pip install -r requirements.txt
+```
