@@ -1,5 +1,5 @@
 # IPL-Data-Analysis
-Exploratory Data Analysis (EDA) and visualization of Indian Premier League (IPL) match data to uncover player performances, team trends, and match dynamics using Python.
+<img src="/IPL.png" alt="Unemployment Analysis" width="700" height="800" />
 
 ### Project Overview
 This project provides a structured and clean analysis of Indian Premier League (IPL) match data. It serves as a comprehensive diagnostic tool for understanding match dynamics, player performances, and team statistics through exploratory data analysis (EDA) and visualization.
