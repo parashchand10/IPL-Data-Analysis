@@ -1,4 +1,4 @@
-# IPL-Data-Analysis
+# IPL Data Analysis
 <img src="/IPL.png" alt="Unemployment Analysis" width="700" height="500" />
 
 ---
